@@ -1,5 +1,5 @@
 ### Hello World
-I am a First year student at Faculty of Artificial Intelligence. 
+I am a first year student at Faculty of Artificial Intelligence. 
 <!--
 **AmmarAmgad/AmmarAmgad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
